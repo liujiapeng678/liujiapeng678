@@ -2,7 +2,10 @@
 
 Welcome to my page!           
 You are my No.![visitor count](https://profile-counter.glitch.me/MOSSSSSSSSSSSSS/count.svg) visitor.                
-I'm LJP from the School of Software at Tongji University.
+
+- 🔭 I’m currently studying Software Engerneering in Tongji University.
+- 📫 How to reach me: jj0723938@gmail.com
+- 🧑‍💻 Read my blogs: 
 
 ### Languages
 
