@@ -5,7 +5,7 @@ You are my No.![visitor count](https://profile-counter.glitch.me/MOSSSSSSSSSSSSS
 
 - 🔭 I’m currently studying Software Engerneering in Tongji University.
 - 📫 How to reach me: jj0723938@gmail.com
-- 🧑‍💻 Read my blogs: 
+- 🧑‍💻 Read my blogs: http://49.235.143.83:8080/
 
 ### Languages
 
