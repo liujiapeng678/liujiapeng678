@@ -1,11 +1,11 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 Welcome to my page!           
-You are my No.![visitor count](https://profile-counter.glitch.me/MOSSSSSSSSSSSSS/count.svg) visitor.                
+You are my No.![visitor count](https://profile-counter.glitch.me/liujiapeng678/count.svg) visitor.                
 
 - 🔭 I’m currently studying Software Engerneering in Tongji University.
 - 📫 How to reach me: jj0723938@gmail.com
-- 🧑‍💻 Read my blogs: http://49.235.143.83:8080/
+- 🧑‍💻 Read my blogs: http://liujiapeng.tj.cn
 
 ### Languages
 
@@ -28,4 +28,4 @@ You are my No.![visitor count](https://profile-counter.glitch.me/MOSSSSSSSSSSSSS
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
 
-<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=MOSSSSSSSSSSSSS&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOSSSSSSSSSSSSS&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=liujiapeng678&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liujiapeng678&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
